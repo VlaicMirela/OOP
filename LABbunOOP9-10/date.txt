@@ -1,3 +1,0 @@
-2
-rosii 12 8
-ceapa 5 7
